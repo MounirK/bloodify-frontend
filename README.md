@@ -1,5 +1,9 @@
 # Bloodify
-![](https://i.ibb.co/Pjjc2zx/iblood-logo.png)
+-> ![](https://i.ibb.co/Pjjc2zx/iblood-logo.png) <-
+
+## About
+bloodify-front is (as its name implies) the frontend side of BLOODIFY project, it provides some REST APIs ready to be consumed by the Frontend client.
+ [bloodify-backend] (https://github.com/arouay/bloodify-backend). 
 
 ### Tech
 
